@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Gonzalo Rojas A.
+I'm Peruvian, a System engineer, a backend developer( that has to know about frontend to survive 😄 ).
+
+### Qualifications
+Backend             ->  ExpressJS | TypeScript | NodeJS
+FrontEnd            ->  ReactJS | CSS | HTML
+Databases           ->  MongoDB | SQL Server | MySQL | Redis 
+Deploy              ->  Linux | Docker | AWS (Basic)
+Know by university  ->  Java | Networks | 3D modeling/Blender | C
+Movil dev           ->  Java | Dark | Flutter
 
 <!--
 **Sisterno/Sisterno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
