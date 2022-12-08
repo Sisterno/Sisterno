@@ -1,12 +1,13 @@
 ### Hi there 👋
 I'm Gonzalo Rojas A.
-I'm Peruvian, a System engineer, a backend developer( that has to know about frontend to survive 😄 ).
+I'm Peruvian, a System engineer, a backend developer ( that know about frontend to survive 😄 ).
 
 ### Qualifications
-Backend             ->  ExpressJS | TypeScript | NodeJS  
+Backend             ->  ExpressJS | TypeScript | NodeJS | Go
 FrontEnd            ->  ReactJS | CSS | HTML  
 Databases           ->  MongoDB | SQL Server | MySQL | Redis   
-Deploy              ->  Linux | Docker | AWS (Basic)  
+Deploy              ->  Linux | Docker 
+Cloud               ->  AWS (Basic) | Google Cloud (mid)
 Know by university  ->  Java | Networks | 3D modeling/Blender | C  
 Movil dev           ->  Java | Dark | Flutter  
 
