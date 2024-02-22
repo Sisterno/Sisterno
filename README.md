@@ -8,7 +8,7 @@ I'm Peruvian, a System engineer, a backend developer ( that knows a bit of front
 - Databases           ->  MongoDB | SQL Server | MySQL | Redis | Firebase
 - Deploy              ->  Linux | Docker 
 - Cloud               ->  AWS (Basic) | Google Cloud (mid)
-- By curisity         ->  Dark | Flutter  | 3D modeling/Blender | C# | Unity
+- By curiosity        ->  Dark | Flutter | 3D modeling/Blender | C# | Unity
 
 <!--
 **Sisterno/Sisterno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
