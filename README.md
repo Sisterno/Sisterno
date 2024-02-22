@@ -5,11 +5,10 @@ I'm Peruvian, a System engineer, a backend developer ( that knows a bit of front
 ### Qualifications
 - Backend             ->  ExpressJS | TypeScript | NodeJS | Go
 - FrontEnd            ->  ReactJS | CSS | HTML  
-- Databases           ->  MongoDB | SQL Server | MySQL | Redis   
+- Databases           ->  MongoDB | SQL Server | MySQL | Redis | Firebase
 - Deploy              ->  Linux | Docker 
 - Cloud               ->  AWS (Basic) | Google Cloud (mid)
-- Know by university  ->  Java | Networks | 3D modeling/Blender | C  
-- Movil dev           ->  Java | Dark | Flutter  
+- By curisity         ->  Dark | Flutter  | 3D modeling/Blender | C# | Unity
 
 <!--
 **Sisterno/Sisterno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
