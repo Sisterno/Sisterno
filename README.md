@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Gonzalo Rojas A.
-I'm Peruvian, a System engineer, a backend developer ( that know about frontend to survive 😄 ).
+I'm Peruvian, a System engineer, a backend developer ( that knows a bit of frontend to survive 😄 ).
 
 ### Qualifications
 - Backend             ->  ExpressJS | TypeScript | NodeJS | Go
